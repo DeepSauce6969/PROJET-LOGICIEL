@@ -1,0 +1,2 @@
+<p class="fl_left">Copyright &copy; 2023 - <a href="https://www.univ-tlse3.fr/licence-mention-mathematiques-et-informatique-appliquees-aux-sciences-humaines-et-sociales">L2 MIASHS</a></p>
+<p>H Group, le groupe qui fait furreur</p>
